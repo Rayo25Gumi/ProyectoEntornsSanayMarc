@@ -1,0 +1,67 @@
+C:/Users/MarcCallejon/Desktop/mvc/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/MarcCallejon/Desktop/mvc/bin/Debug/net8.0/appsettings.json
+C:/Users/MarcCallejon/Desktop/mvc/bin/Debug/net8.0/mvc.staticwebassets.runtime.json
+C:/Users/MarcCallejon/Desktop/mvc/bin/Debug/net8.0/mvc.exe
+C:/Users/MarcCallejon/Desktop/mvc/bin/Debug/net8.0/mvc.deps.json
+C:/Users/MarcCallejon/Desktop/mvc/bin/Debug/net8.0/mvc.runtimeconfig.json
+C:/Users/MarcCallejon/Desktop/mvc/bin/Debug/net8.0/mvc.dll
+C:/Users/MarcCallejon/Desktop/mvc/bin/Debug/net8.0/mvc.pdb
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/mvc.AssemblyInfoInputs.cache
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/mvc.AssemblyInfo.cs
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/mvc.csproj.CoreCompileInputs.cache
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/mvc.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/mvc.RazorAssemblyInfo.cache
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/mvc.RazorAssemblyInfo.cs
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/staticwebassets/msbuild.mvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/staticwebassets/msbuild.build.mvc.props
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.mvc.props
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.mvc.props
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/scopedcss/bundle/mvc.styles.css
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/scopedcss/projectbundle/mvc.bundle.scp.css
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/mvc.dll
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/refint/mvc.dll
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/mvc.pdb
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/mvc.genruntimeconfig.cache
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/ref/mvc.dll
+C:/Users/MarcCallejon/Desktop/mvc/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/mvc.csproj.AssemblyReference.cache
+C:/Users/MarcCallejon/Desktop/mvc/obj/Debug/net8.0/mvc.csproj.Up2Date
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/bin/Debug/net8.0/appsettings.Development.json
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/bin/Debug/net8.0/appsettings.json
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/bin/Debug/net8.0/mvc.staticwebassets.runtime.json
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/bin/Debug/net8.0/mvc
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/bin/Debug/net8.0/mvc.deps.json
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/bin/Debug/net8.0/mvc.runtimeconfig.json
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/bin/Debug/net8.0/mvc.dll
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/bin/Debug/net8.0/mvc.pdb
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/mvc.csproj.AssemblyReference.cache
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/mvc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/mvc.AssemblyInfoInputs.cache
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/mvc.AssemblyInfo.cs
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/mvc.csproj.CoreCompileInputs.cache
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/mvc.MvcApplicationPartsAssemblyInfo.cache
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/mvc.RazorAssemblyInfo.cache
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/mvc.RazorAssemblyInfo.cs
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/mvc.sourcelink.json
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/staticwebassets.build.json
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/staticwebassets.development.json
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/staticwebassets/msbuild.mvc.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/staticwebassets/msbuild.build.mvc.props
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.mvc.props
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.mvc.props
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/scopedcss/bundle/mvc.styles.css
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/scopedcss/projectbundle/mvc.bundle.scp.css
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/mvc.csproj.Up2Date
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/mvc.dll
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/refint/mvc.dll
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/mvc.pdb
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/mvc.genruntimeconfig.cache
+/Users/marc/Documents/Clase/Entorns/3r trimestre/proyecto/obj/Debug/net8.0/ref/mvc.dll

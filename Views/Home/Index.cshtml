@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Cat Project"; // Título que se ve en la pestaña del navegador
+}
+
+@model Gato // Se indica que esta vista usará el modelo Gato
+
+    <link rel="stylesheet" href="~/css/site.css" />
+    <script src="/js/site.js"></script>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+<body>
+    <div id="barra"></div>
+    <div id="container"></div>
+    <div>
+        <p class="bold" id="title">Random cat and fact!</p>
+        <button id="instruciones">Hint
+            <img id="hint" src="/attachments/hint.png" />
+        </button>
+        <div id="tarjeta">
+            <img id="catImage" src="@Model.Url" height="512px" width="512px" /> <!-- Imagen del gato que referencio con el model y luego le indico el dato que debe usar con el .url-->
+            <p class="bold">Cat fact!</p>
+            <p>@Model.Fact</p>  <!-- Texto de gato que referencio con el model y luego le indico el dato que debe usar con el .Fact-->
+        </div>
+    </div>
+</body>
+
